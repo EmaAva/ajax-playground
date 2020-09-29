@@ -1,1 +1,1 @@
-# ajax-playground
+# ajax-playground di Emanuele Avataneo
